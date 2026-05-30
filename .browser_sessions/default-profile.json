@@ -1,0 +1,778 @@
+{
+  "cookies": [
+    {
+      "name": "_wixAB3",
+      "value": "4996967#1",
+      "domain": ".wix.com",
+      "path": "/_api/blog-frontend-adapter-public/v2/post-page-metadata/e-ticaret-nasil-yapilir-e-ticaret-sitesi-kurma",
+      "expires": 1795704864.694293,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_wixAB3",
+      "value": "4996967#1",
+      "domain": ".wix.com",
+      "path": "/_api/communities-blog-node-api/v3/posts/b6c076fb-ab69-4c4a-a2fd-ffbbd01296d0/view",
+      "expires": 1795704863.631091,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_wixAB3",
+      "value": "4996967#1",
+      "domain": ".wix.com",
+      "path": "/_api/communities-blog-node-api/v3/posts/query",
+      "expires": 1795704863.461762,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_wixAB3",
+      "value": "4996967#2",
+      "domain": ".wix.com",
+      "path": "/v1/bulk/report-exposures",
+      "expires": 1795704861.206428,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_GRECAPTCHA",
+      "value": "09AKhCRwhK8JfiqCAHbH1Ap7jpoRaEw2Ee7N6d8ZL1Gvukwiw3apVykXrEP2rM7NZ78hPuzVj3ktwsjv3FashdW6U",
+      "domain": "www.google.com",
+      "path": "/recaptcha",
+      "expires": 1795376561.213296,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1-2.251305968.1779530388",
+      "domain": ".google.com",
+      "path": "/account",
+      "expires": 1814090388.174126,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_3BQTD98D97",
+      "value": "GS2.1-2.s1779530388$o1$g1$t1779530388$j60$l0$h0",
+      "domain": ".google.com",
+      "path": "/account",
+      "expires": 1814090388.187005,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "svSession",
+      "value": "49b2002765c20d9f0a9d2c068c674d51044eb0a92b2d27bd90914a1f6ed35dd4a757f5dd0e50c00e474eab5a2cee1a6e1e60994d53964e647acf431e4f798bcd079db0ddfb8f404d2f23d5c2293f8a0672b438497c95e233d329ea9b1f1c5409004eb6066b64976befc3deb819dafaf870fb49132fc460f89d5a909d75110d65e0a5c44e50834212395c65aa8d05016b",
+      "domain": ".tr.wix.com",
+      "path": "/blog",
+      "expires": 1814540053.001548,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_wixAB3",
+      "value": "4996967#2",
+      "domain": ".wix.com",
+      "path": "/blog",
+      "expires": 1795704853.001576,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_octo",
+      "value": "GH1.1.710816086.1779377318",
+      "domain": ".github.com",
+      "path": "/",
+      "expires": 1810913318.382,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "logged_in",
+      "value": "no",
+      "domain": ".github.com",
+      "path": "/",
+      "expires": 1810913318.382,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "preferred_color_mode",
+      "value": "dark",
+      "domain": ".github.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tz",
+      "value": "Europe%2FIstanbul",
+      "domain": ".github.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_device_id",
+      "value": "6ef805baca56cd9c412ac276e35885a2",
+      "domain": "github.com",
+      "path": "/",
+      "expires": 1810913348.863,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cpu_bucket",
+      "value": "md",
+      "domain": ".github.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gh_sess",
+      "value": "IG23u2YuA8DzjaXPJTEGfqSV2U1w5cJ%2Bc4N6Fz6nc8P66%2FSEWz2JBKjDyLDP1Mt6isw8kKCC6UH7Aq4%2FVgxDKDOxdRSKnerV3wW7k7uIsCId82njLE%2BUbqLJplhhO6lTdsRshRZfCcAIMezkc8yAdGdQUGJzyYY8nlx1GXDrXC%2Bp2%2BZwHlf46wUF90yIMaNrdfDBPl7D79LVDAd6tVXCbWDuZM%2FR78qAJP%2FP%2BysW8g353dg3cQS8LfHzl01Y8GoX0nmUWP7jUvcuT44m2TqigE5nS44Lkokm03z%2BCrYL%2FFFtuDM6%2B8UXT2WXVW9uurLUzYog%2FXWec13aPo4EJsaC9GfW1ockfZPP%2F3zQdzdk6hFiPDHTLsNvLsMj1PIbDeZIM58tAhuelFBQ6xH%2FBkib3J4LOPbHmp0u%2BFfISQJSYCwjbi4cbGEK1Gz5F9%2FbxTTmh4DrNg5ALpxyQ7K3ylLR17u3XECrrC0%2FsafJ1ujVd79zaUUa4uXxAW2bOKCMniyu%2BTn8JI6flV1hfsSe9rihz034T%2FM8xhRdeMafIxdPo4%2BZSbJGmYWTdBblQqJD9luPksERnjMSWARWhlfhKX2M7QK37wHgQ5ifp3h1ytfhaTap6VUVY32cvbDkxTorFolr9bix%2FisgxBfSOVpFw9SAJ0evdLdaPh7M1vk4yxfAlvNmtDaBh6oSiPnYMarL9SdQSKh0ppUSAoDzmb2SImnGKyvoMofMW2efebek1hxksJARkdUzCoNiwrNMn8daQRhmrtSkKC2zTtDqzKa7MJ%2FaL8gVDHy4ir7P0IyTK044W97%2BakBdwoAiu5dUbtdeBuHZieK4Rf%2FTwA0yWnJBiz7VL7f%2BbkR6doPJVt6MGkQBIBHWtEYslllnoDm55wQU6k28C10bCXNd2%2Fgc14lG--K2HcjbL3bLhNDGZ8--bZbll9Bs9B%2B9ShNL3KDT9A%3D%3D",
+      "domain": "github.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OTZ",
+      "value": "8617850_44_48_123900_44_436380",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1781967000,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SID",
+      "value": "g.a000-QjNGim7DARkVwXttc3JWxfCZYs0026Xvi5Y6hNGktG7FhS7YBiWDosm8mtS86an7mURqQACgYkAb0SARASFQHGX2MiMGjYcNHJS7y8aA70v3Nz7xoVAUF8yKrhToVrvsnT2kk_kHtq6jcF0076",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "APISID",
+      "value": "_ZjY7iHDUg_wMA0u/AFozx9SalzW5YvaTI",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SAPISID",
+      "value": "p0Hr4AbezI7F2k-E/AvgvzMFaY793HZR4s",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-1PAPISID",
+      "value": "p0Hr4AbezI7F2k-E/AvgvzMFaY793HZR4s",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-3PAPISID",
+      "value": "p0Hr4AbezI7F2k-E/AvgvzMFaY793HZR4s",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SEARCH_SAMESITE",
+      "value": "CgQI9qAB",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SIDCC",
+      "value": "AKEyXzXOnPatCNkI_68gddfgxdyXnYQfKIuwwvIRsvIc_iohUf5dY0wD1XB_HaCfmHAEAh4LmQ",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AEC",
+      "value": "AaJma5sLIU1B0oGqrqpWCttGH_oZUZsxDY1pYlpHfr-H4VM0MAQHmt41CE8",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1794929131.623944,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-ENID",
+      "value": "33.SE=q6Py6SaE895FoVKi5ryFptakb7kTkSwAbDP7gkkzDaq6BJzrVf-N1eieirHC7igR2aZm_YPwcAaApn35JVBBZLITjmJ3BvcpQHy0UKYKs5sX0QS3dR4xKEDNhyrTNLHBdl_szX5b0kzCgzDejG4IcXlCxNlRp7zONPGH7t34EJJnt8TiuytJGvWS7hHK2OJCmUt-zZy3wpRdr9HgkHSf-KGWWRVtu2KNDXe5MOwE1hEgBqjfapMOIICTSNhBjWVnUqz9wgc8I28",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1814011256.060939,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Host-GAPS",
+      "value": "1:q4q53NslLq1Xrdbqk5iuBxYJhhl2_g:uSKUUovWRi0xyys7",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1814526187.588465,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "server-session-bind",
+      "value": "6a76dfe1-008a-48c0-9e0e-bfa44a841735",
+      "domain": "tr.wix.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_wixCIDX",
+      "value": "70de4880-9676-4a06-8b18-8a51946e2906",
+      "domain": ".wix.com",
+      "path": "/",
+      "expires": 1787756045.921034,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_wixUIDX",
+      "value": "null-user-id",
+      "domain": ".wix.com",
+      "path": "/",
+      "expires": 1787756045.921057,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "XSRF-TOKEN",
+      "value": "1779980046|NF-_AE_SufjE",
+      "domain": ".wix.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "hs",
+      "value": "-301922974",
+      "domain": ".tr.wix.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "consent-policy",
+      "value": "%7B%22ess%22%3A1%2C%22func%22%3A1%2C%22anl%22%3A1%2C%22adv%22%3A0%2C%22dt3%22%3A0%2C%22temp%22%3Atrue%7D",
+      "domain": ".wix.com",
+      "path": "/",
+      "expires": 1782399253.139815,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "NEXT_LOCALE",
+      "value": "tr",
+      "domain": "www.nevuto.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cf_clearance",
+      "value": "0sCSX7qB41JzdgMVC4gXoNTZtxCmfVJPIIMusglgQ1M-1779981001-1.2.1.1-jvivLG4X81X__3Ut2DJBMYOLbJYbmqp.uh8AbdZa9I.N4OgGzc8MSNUE9.LAlV2UBcrR8EaoM_p6gOeoFalFN9ifmgW8N6.Qux1SC7UIolPb5BPRgXVBkPbJWg1Xcmg3y6cXxftt8HjJ3NMjmUpyXt2iSQSSVsNVUvyxPNIg8zcPg6Rq6X4_v1bh8t7uqWEsp1Www9SViC7hNMiQA2xNboEIEqJW34oq4mQAoWzAyLtkuuTEyicZzaEIdAfYR8uLEkybDFXw7nnbfooXiaV6sK13mtQWJk2K7BlTxQZco.oJxKycFJsIqMUpYvNTbbkuMS64Z5wtX67OS568hkFSBg",
+      "domain": ".nevuto.com",
+      "path": "/",
+      "expires": 1811517001.836234,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://nevuto.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "lang",
+      "value": "en",
+      "domain": "accounts.nevuto.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1803615678.1780040995",
+      "domain": ".disaridantasarim.com",
+      "path": "/",
+      "expires": 1814600994.546651,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bh",
+      "value": "EkIiQ2hyb21pdW0iO3Y9IjE0OCIsICJHb29nbGUgQ2hyb21lIjt2PSIxNDgiLCAiO05vdCBBIEJyYW5kIjt2PSI5OSIqAj8wOgkiV2luZG93cyJgoorl0AZqHtzK4f8IktihsQOfz+HqA/v68OcN6//99g/fzMyHCA==",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1814600996.725798,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ym_uid",
+      "value": "1780041021805566634",
+      "domain": ".disaridantasarim.com",
+      "path": "/",
+      "expires": 1811577021,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ym_d",
+      "value": "1780041021",
+      "domain": ".disaridantasarim.com",
+      "path": "/",
+      "expires": 1811577021,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yabs-sid",
+      "value": "1381640501780041025",
+      "domain": "mc.yandex.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "i",
+      "value": "+o+Sh5wQdyEmpX7U36Qdk6hPIY0evhJ/ISJWBHpoaG8zqyq0heeQyX3CQvDb2sX77sKr+3HdmKHgZ8BtBBZGPq672g4=",
+      "domain": ".yandex.com",
+      "path": "/",
+      "expires": 1814601025.891565,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yandexuid",
+      "value": "7056966901780041025",
+      "domain": ".yandex.com",
+      "path": "/",
+      "expires": 1814601025.891608,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yuidss",
+      "value": "7056966901780041025",
+      "domain": ".yandex.com",
+      "path": "/",
+      "expires": 1814601025.891626,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ymex",
+      "value": "2095401025.yrts.1780041025#2095401025.yrtsi.1780041025",
+      "domain": ".yandex.com",
+      "path": "/",
+      "expires": 1811577025,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "value": "1",
+      "domain": ".yandex.com",
+      "path": "/",
+      "expires": 1811577025,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://disaridantasarim.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "bh",
+      "value": "EkIiQ2hyb21pdW0iO3Y9IjE0OCIsICJHb29nbGUgQ2hyb21lIjt2PSIxNDgiLCAiO05vdCBBIEJyYW5kIjt2PSI5OSIaA3g4NiINMTQ4LjAuNzc3OC45NioCPzA6CSJXaW5kb3dzIkIEMTAuMEoCNjRSWiJDaHJvbWl1bSI7dj0iMTQ4LjAuNzc3OC45NiIsIkhlYWRsZXNzQ2hyb21lIjt2PSIxNDguMC43Nzc4Ljk2IiwiTm90L0EpQnJhbmQiO3Y9Ijk5LjAuMC4wImDRiuXQBmoe3Mrh/wiS2KGxA5/P4eoD+/rw5w3r//32D9/MzIcI",
+      "domain": ".yandex.com",
+      "path": "/",
+      "expires": 1814601041,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yandexuid",
+      "value": "7056966901780041025",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1814601042.508936,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yuidss",
+      "value": "7056966901780041025",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1814601042.509023,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "i",
+      "value": "+o+Sh5wQdyEmpX7U36Qdk6hPIY0evhJ/ISJWBHpoaG8zqyq0heeQyX3CQvDb2sX77sKr+3HdmKHgZ8BtBBZGPq672g4=",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1814601042.509044,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_W2DW6335FV",
+      "value": "GS2.1.s1780040994$o1$g1$t1780041058$j60$l0$h0",
+      "domain": ".disaridantasarim.com",
+      "path": "/",
+      "expires": 1814601058.183891,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_KV3RBDFRSH",
+      "value": "GS2.1.s1780040994$o1$g1$t1780041058$j60$l0$h0",
+      "domain": ".disaridantasarim.com",
+      "path": "/",
+      "expires": 1814601058.189143,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1771528305.1780041144",
+      "domain": ".wordpress.org",
+      "path": "/",
+      "expires": 1814601264.12592,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_CG6GJ50G8J",
+      "value": "GS2.1.s1780041144$o1$g1$t1780041264$j60$l0$h0",
+      "domain": ".wordpress.org",
+      "path": "/",
+      "expires": 1814601264.130532,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "YSC",
+      "value": "0p1nWAYH2TE",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://youtube.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "NID",
+      "value": "531=UXmbTZmcljkgpuKxn9WwWuTXBfiUXjgQ1ngsIxwAxQcdfT5ApFhh0znH--kW5fPBJIjyX2Ajueyx8otW6pv_WTPNJcREAi2GuhuBZvTiCda_6J_8AmOL1ro7pHnYc-rM51bbGbj87huBSyyZfjt0p3Za1adXLn-c7wHNSxTYC2aJz01hxQm-uM6mrKTN_haNkt8",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1795777387.355081,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SOCS",
+      "value": "CAISEwgDEgk5MjI0NDU2MTMaAmVuIAEaBgiAruPQBg",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1814177742.281068,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "VISITOR_INFO1_LIVE",
+      "value": "Bhu8vZ-tHFU",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1795601990.690917,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://youtube.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "VISITOR_PRIVACY_METADATA",
+      "value": "CgJHQhIEGgAgXw%3D%3D",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1795601990.690997,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://youtube.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "__Secure-YNID",
+      "value": "18.YT=o5YC2qwvt7-BoA5GOEmXIdlCkav1uTYCUD9uSJnrsnRPF48EM7bZT8weqlU43SW3GeCHlpkMm8lCmYR57wuBBdorEOWnK4Cc_7brXnFMaHJWky0DClpCcoIc0o1cLIgB51fq3fxnPy9F1QxvNBtLVIcmnTnxVqEYo3BPhEujPo-3V_JySF6tZHl-C_7r-YVhNrJlls7ivIzhJcI7NRyXIp01OILFUaYQd5qoWUiAjfKmbM2vDpr3ldodaR_6vhXv4znP-zMmOxKeJYz3kYxeyBNzQk6g9dbWriTC3EWKOL2yc-ih7r4_Po718eRZ7AOltun6YVEQwgUYXyzxyKlSXw",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1795601742.413871,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://youtube.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "__Secure-ROLLOUT_TOKEN",
+      "value": "CJrd46TbrZjSHRCxvbuEot6UAxj3t8uEot6UAw%3D%3D",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1795601742.414076,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://youtube.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "PREF",
+      "value": "tz=Europe.Istanbul",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1814610135.291568,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_HQB9SN7DNJ",
+      "value": "GS2.1.s1780050521$o1$g0$t1780050521$j60$l0$h0",
+      "domain": ".techsy.io",
+      "path": "/",
+      "expires": 1814610521.371695,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1749292680.1780050521",
+      "domain": ".techsy.io",
+      "path": "/",
+      "expires": 1814610521.372322,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.youtube.com",
+      "localStorage": [
+        {
+          "name": "yt-remote-connected-devices",
+          "value": "{\"data\":\"[]\",\"expiration\":1780136400460,\"creation\":1780050000460}"
+        },
+        {
+          "name": "Vfc7f1770||::yt-player::yt-player-lv",
+          "value": "{\"data\":\"{}\",\"creation\":1780050000873}"
+        },
+        {
+          "name": "ytidb::LAST_RESULT_ENTRY_KEY",
+          "value": "{\"data\":{\"hasSucceededOnce\":true},\"expiration\":1782642000662,\"creation\":1780050000662}"
+        },
+        {
+          "name": "yt-remote-device-id",
+          "value": "{\"data\":\"1dec2e39-2da0-4246-9d1d-df47090159a8\",\"expiration\":1811585638269,\"creation\":1780049638269}"
+        },
+        {
+          "name": "yt-icons-last-purged",
+          "value": "1777112032303"
+        }
+      ]
+    },
+    {
+      "origin": "https://accounts.nevuto.com",
+      "localStorage": [
+        {
+          "name": "lang",
+          "value": "en"
+        },
+        {
+          "name": "loglevel",
+          "value": "SILENT"
+        }
+      ]
+    },
+    {
+      "origin": "https://tr.wix.com",
+      "localStorage": [
+        {
+          "name": "fedops.logger.sessionId",
+          "value": "348e6d21-ea8a-46f8-91a4-730db7426042"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "sb_wiz.zpc.gws-wiz.",
+          "value": "{\"0\":[[\"linda bassett\",46,[3,143,362],{\"zp\":{\"gs_ssp\":\"eJzj4tLP1Tcwzkg3tawwYPTizcnMS0lUSEosLk4tKQEAbYUIng\"},\"zf\":33,\"zs\":\"data:image/jpeg;base64,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\",\"zi\":\"English actress\",\"lm\":[],\"zl\":8,\"zh\":\"Linda Bassett\"}],[\"yan diomande chelsea shirt photo\",0,[3,143,362],{\"zp\":{\"gs_ss\":\"1\"},\"zl\":8,\"zf\":33}],[\"dwp universal credit deductions\",0,[3,143,362],{\"zf\":33,\"zl\":8,\"zp\":{\"gs_ss\":\"1\"}}],[\"900 hmrc cheque\",0,[3,143,362],{\"zf\":33,\"zl\":8,\"zp\":{\"gs_ss\":\"1\"}}],[\"starfield update patch notes\",0,[3,143,362],{\"zf\":33,\"zl\":8,\"zp\":{\"gs_ss\":\"1\"}}],[\"new dinosaur species thailand\",0,[3,143,362],{\"zl\":8,\"zf\":33,\"zp\":{\"gs_ss\":\"1\"}}],[\"waitrose nationwide till error\",0,[3,143,362],{\"zl\":8,\"zf\":33,\"zp\":{\"gs_ss\":\"1\"}}],[\"eurovision song contest semi final\",0,[3,143,362],{\"zp\":{\"gs_ss\":\"1\"},\"zl\":8,\"zf\":33}],[\"oracle redbull racing crocs\",0,[3,143,362],{\"zl\":8,\"zf\":33,\"zp\":{\"gs_ss\":\"1\"}}],[\"air force intelligence specialist\",0,[3,143,362],{\"zf\":33,\"zl\":8,\"zp\":{\"gs_ss\":\"1\"}}]],\"1\":{\"av\":\"9963399742762385485\",\"ag\":{\"a\":{\"8\":[\"Trending searches\"]}}}}"
+        },
+        {
+          "name": "rc::a",
+          "value": "dDJ0N2J0MTVzYmN0MQ=="
+        },
+        {
+          "name": "rc::f",
+          "value": "0aAEc790LpoClOiVd9XWvt4zMfeguDJJp0eHDifEI2irah3-3SvEqD-hXYK9dz0IGwO7Ti9LU"
+        }
+      ]
+    },
+    {
+      "origin": "https://duckduckgo.com",
+      "localStorage": [
+        {
+          "name": "origin_conversions",
+          "value": "[\"search\"]"
+        },
+        {
+          "name": "ddg-promotions",
+          "value": "{\"sidemenu-browser-promo-2026-04\":{\"type\":\"periodic\",\"schemaVersion\":2,\"impressionCount\":1}}"
+        },
+        {
+          "name": "serpPopoverPromo",
+          "value": "{\"showNextPromoOn\":\"2026-06-28\"}"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.disaridantasarim.com",
+      "localStorage": [
+        {
+          "name": "_ym_synced",
+          "value": "{\"com\":29665915}"
+        },
+        {
+          "name": "_ym102486486_lsid",
+          "value": "905624397733"
+        },
+        {
+          "name": "google_auto_fc_cmp_setting",
+          "value": "[1]"
+        },
+        {
+          "name": "_ym_retryReqs",
+          "value": "{\"1\":{\"protocol\":\"https:\",\"host\":\"mc.yandex.com\",\"resource\":\"watch/102486486\",\"time\":1780041022734,\"counterType\":\"0\",\"params\":{\"page-url\":\"https://www.disaridantasarim.com/ucretsiz-e-ticaret-sitesi-nasil-kurulur/\",\"page-ref\":\"https://duckduckgo.com/\",\"charset\":\"utf-8\",\"uah\":\"chu\\n\\\"Chromium\\\";v=\\\"148\\\",\\\"Google Chrome\\\";v=\\\"148\\\",\\\";Not A Brand\\\";v=\\\"99\\\"\\ncha\\nx86\\nchb\\n64\\nchf\\n148.0.7778.96\\nchl\\n\\\"Chromium\\\";v=\\\"148.0.7778.96\\\",\\\"HeadlessChrome\\\";v=\\\"148.0.7778.96\\\",\\\"Not/A)Brand\\\";v=\\\"99.0.0.0\\\"\\nchm\\n?0\\nchp\\nWindows\\nchv\\n10.0\"},\"browserInfo\":{\"pv\":1,\"vf\":\"pudvqnsfv62y3npq3237otj0noa8r\",\"fu\":0,\"en\":\"utf-8\",\"la\":\"en-US\",\"v\":\"2520\",\"cn\":1,\"dp\":0,\"ls\":905624397733,\"hid\":342649719,\"z\":180,\"i\":\"20260529105021\",\"et\":1780041021,\"c\":1,\"rn\":65221792,\"rqn\":1,\"u\":\"1780041021805566634\",\"w\":\"552x800\",\"s\":\"552x800x24\",\"sk\":1,\"fp\":2952,\"wv\":2,\"ds\":\"558,103,1879,106,3,0,,484,3,,,,3153\",\"co\":0,\"cpf\":1,\"ns\":1780040990987,\"gi\":\"R0ExLjEuMTgwMzYxNTY3OC4xNzgwMDQwOTk1\",\"t\":\"Ücretsiz E-Ticaret Sitesi Nasıl Kurulur? - Dışarıdan Tasarım\",\"adb\":\"2\",\"rqnl\":1},\"counterId\":102486486,\"ghid\":342649719,\"telemetry\":{\"clt\":27403,\"gdpr\":\"14\",\"clc\":\"0-0-0\",\"rqnt\":1,\"aw\":1,\"rcm\":1,\"cdl\":\"na\",\"eco\":42009088}}}"
+        },
+        {
+          "name": "elementor",
+          "value": "{\"__expiration\":{},\"pageViews\":1,\"sessions\":1}"
+        },
+        {
+          "name": "_ym102486486_lastHit",
+          "value": "1780041036232"
+        },
+        {
+          "name": "_ym_uid",
+          "value": "\"1780041021805566634\""
+        },
+        {
+          "name": "_ym102486486:0_reqNum",
+          "value": "1"
+        }
+      ]
+    }
+  ]
+}
